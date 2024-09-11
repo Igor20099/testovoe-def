@@ -1,0 +1,32 @@
+.infinite_scroll {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-bottom: 48px;
+  margin-top: 16px;
+}
+
+.btn {
+  border-radius: 10px;
+  padding: 8px;
+  background-color: green;
+  border: none;
+  margin-top: 16px;
+  cursor: pointer;
+}
+
+.list {
+  list-style: none;
+}
+
+.list_item {
+  border: 1px solid grey;
+  margin-bottom: 8px;
+  padding: 8px 24px;
+  border-radius: 8px;
+}
+
+.title {
+  margin-bottom: 8px;
+}

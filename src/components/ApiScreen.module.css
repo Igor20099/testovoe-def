@@ -1,0 +1,11 @@
+.api {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 120px;
+}
+
+.rate {
+  font-size: 32px;
+}
